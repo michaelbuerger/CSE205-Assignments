@@ -1,0 +1,50 @@
+A
+Five Guys
+Greasy burgers, good but not amazing
+$$
+4
+American
+Mill Ave
+Burgers
+A
+Chick Fil A
+Good chicken and fries. Too polite!
+$
+3
+American
+University Dr
+Chicken Sandwich
+A
+Spinatos
+Amazing pizzas
+$$
+5
+Italian
+Rio Salado Dr
+Pizzas
+A
+Hiro
+Best sushi in town!
+$$$
+5
+Japanese
+90th St
+Sashimi
+A
+Chick Fil A
+Love the fries! Very clean
+$
+5
+American
+Dobson Rd
+Chicken Sandwich
+L
+N
+L
+P
+L
+R
+Chick Fil A
+University Dr
+L
+Q

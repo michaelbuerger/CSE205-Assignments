@@ -1,0 +1,17 @@
+Height of the maze: 
+Width of the maze: 
+Original maze: 
+B####
+##..#
+#E.##
+#.#E#
+#####
+
+Maze after Easter Bunny traverse: 
+x####
+##..#
+#E.##
+#.#E#
+#####
+
+The Bunny was unable to recover the eggs, Easter is cancelled!

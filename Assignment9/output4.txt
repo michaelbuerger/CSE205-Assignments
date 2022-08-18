@@ -1,0 +1,53 @@
+
+What would you like to do?
+
+1: Find the largest number in an array of integers
+2: Calculate the product of all prime numbers in an array of integers
+3: Find the element with the largest sum of digits in an array of integers
+4: Remove adjacent duplicate characters in a String
+5: Quit
+
+Please enter String:
+String after adjacent duplicate characters were removed: The Hitch-hiker's Guide to the Galaxy
+
+What would you like to do?
+
+1: Find the largest number in an array of integers
+2: Calculate the product of all prime numbers in an array of integers
+3: Find the element with the largest sum of digits in an array of integers
+4: Remove adjacent duplicate characters in a String
+5: Quit
+
+Please enter String:
+String after adjacent duplicate characters were removed: The Restaurant at the End of the Universe
+
+What would you like to do?
+
+1: Find the largest number in an array of integers
+2: Calculate the product of all prime numbers in an array of integers
+3: Find the element with the largest sum of digits in an array of integers
+4: Remove adjacent duplicate characters in a String
+5: Quit
+
+Please enter String:
+String after adjacent duplicate characters were removed: Life, the Universe and Everything
+
+What would you like to do?
+
+1: Find the largest number in an array of integers
+2: Calculate the product of all prime numbers in an array of integers
+3: Find the element with the largest sum of digits in an array of integers
+4: Remove adjacent duplicate characters in a String
+5: Quit
+
+Please enter String:
+String after adjacent duplicate characters were removed: So Long, and Thanks for the Fish
+
+What would you like to do?
+
+1: Find the largest number in an array of integers
+2: Calculate the product of all prime numbers in an array of integers
+3: Find the element with the largest sum of digits in an array of integers
+4: Remove adjacent duplicate characters in a String
+5: Quit
+

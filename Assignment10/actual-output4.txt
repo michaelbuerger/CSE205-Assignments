@@ -1,0 +1,131 @@
+Welcome to ClosedTable Management Service:
+Choice		Action
+------		------
+A		Add a new reservation to the queue
+C		Find how many parties of a certain size are in the queue
+D		Get next reservation in line
+L		List all reservations in queue
+P		Find the position of a reservation in the queue
+R		Remove reservation from queue
+Q		Quit
+?		Display Help
+
+What action would you like to perform?
+Please enter the name of the guest for the reservation:
+Please enter the size of the party:
+reservation successfully added.
+
+What action would you like to perform?
+Please enter the name of the guest for the reservation:
+Please enter the size of the party:
+reservation successfully added.
+
+What action would you like to perform?
+Please enter the name of the guest for the reservation:
+Please enter the size of the party:
+reservation successfully added.
+
+What action would you like to perform?
+Please enter the name of the guest for the reservation:
+Please enter the size of the party:
+reservation successfully added.
+
+What action would you like to perform?
+Please enter the name of the guest for the reservation:
+Please enter the size of the party:
+reservation successfully added.
+
+What action would you like to perform?
+
+Reservation for Collins: party of 3.
+
+Reservation for Johnson: party of 2.
+
+Reservation for Chen: party of 2.
+
+Reservation for Smith: party of 2.
+
+Reservation for Moore: party of 4.
+
+Total reservations: 5.
+
+What action would you like to perform?
+Please enter the reservation name you'd like to remove from queue:
+Reservation for Chen for 2 guest(s) has been cancelled.
+
+What action would you like to perform?
+
+Reservation for Collins: party of 3.
+
+Reservation for Johnson: party of 2.
+
+Reservation for Smith: party of 2.
+
+Reservation for Moore: party of 4.
+
+Total reservations: 4.
+
+What action would you like to perform?
+Next party in line is Collins, for 3 guests, please come to host area.
+
+What action would you like to perform?
+Next party in line is Johnson, for 2 guests, please come to host area.
+
+What action would you like to perform?
+Please enter the reservation name you'd like to remove from queue:
+Reservation for Moore for 4 guest(s) has been cancelled.
+
+What action would you like to perform?
+Next party in line is Smith, for 2 guests, please come to host area.
+
+What action would you like to perform?
+No reservations in queue at this time.
+
+What action would you like to perform?
+Please enter the name of the guest for the reservation:
+Please enter the size of the party:
+reservation successfully added.
+
+What action would you like to perform?
+Next party in line is Garcia, for 3 guests, please come to host area.
+
+What action would you like to perform?
+No reservations in queue at this time.
+
+What action would you like to perform?
+Please enter the reservation name you'd like to remove from queue:
+Reservation not found, please try again.
+
+
+What action would you like to perform?
+No reservations in line currently.
+
+What action would you like to perform?
+No reservations in queue at this time.
+
+What action would you like to perform?
+Please enter the name of the guest for the reservation:
+Please enter the size of the party:
+reservation successfully added.
+
+What action would you like to perform?
+Please enter the name of the guest for the reservation:
+Please enter the size of the party:
+reservation successfully added.
+
+What action would you like to perform?
+Please enter the name of the guest for the reservation:
+Please enter the size of the party:
+reservation successfully added.
+
+What action would you like to perform?
+
+Reservation for Lopez: party of 4.
+
+Reservation for Garcia: party of 3.
+
+Reservation for James: party of 7.
+
+Total reservations: 3.
+
+What action would you like to perform?

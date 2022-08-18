@@ -1,0 +1,68 @@
+A
+Spinatos
+Amazing pizzas
+$$
+5
+Italian
+Rio Salado Dr
+Pizzas
+A
+Five Guys
+Greasy burgers, good but not amazing
+$$
+4
+American
+Mill Ave
+Burgers
+A
+Chick Fil A
+Good chicken and fries. Too polite!
+$
+3
+American
+University Dr
+Chicken Sandwich
+A
+The Dhaba
+Butter chicken is amazing!
+$$
+5
+Indian
+Apache Blv
+Butter Chicken
+A
+Hiro
+Best sushi in town!
+$$$
+5
+Japanese
+90th St
+Sashimi
+A
+Chick Fil A
+Love the fries! Very clean
+$
+5
+American
+Dobson Rd
+Chicken Sandwich
+L
+D
+Chick Fil A
+Dobson Rd
+D
+Chick Fil A
+Apache Blv
+N
+L
+P
+L
+U
+newReview.txt
+McDonalds
+Very slow drive-through, but cheap!
+V
+newReview.txt
+V
+noReview.txt
+Q

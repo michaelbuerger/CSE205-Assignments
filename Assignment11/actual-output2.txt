@@ -1,0 +1,23 @@
+Height of the maze: 
+Width of the maze: 
+Original maze: 
+B#########
+.#E..#...#
+.#.#.#.#.#
+...#.#.#E#
+###.E..#.#
+#...##...#
+#.E#...#E#
+####E#####
+
+Maze after Easter Bunny traverse: 
+x#########
+x#xxx#xxx#
+x#x#x#x#x#
+xxx#x#x#x#
+###xxxx#x#
+#xxx##xxx#
+#xx#xxx#x#
+####x#####
+
+The Easter Bunny found 6 egg(s)!

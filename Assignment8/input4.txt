@@ -1,0 +1,93 @@
+A
+Jinya Ramen Bar
+Best ramen in town, but very far!
+$$
+5
+Japanese
+Arizona Ave
+Ramen
+A
+Chick Fil A
+Good chicken and fries. Too polite!
+$
+5
+American
+University Dr
+Chicken Sandwich
+A
+Hiro
+Best sushi in town!
+$$$
+5
+Japanese
+90th St
+Sashimi
+A
+Chick Fil A
+Love the fries! Very clean
+$
+5
+American
+Dobson Rd
+Chicken Sandwich
+A
+Gus Fried Chicken
+Sooooo good. Very cheap too!
+$
+5
+American
+Main St
+Fried Chicken
+A
+Pollo Supremo
+Tasty chicken, cash only
+$
+4
+Mexican
+University Dr
+Charbroiled Chicken
+A
+Taco Bell
+Took forever to get my order
+$
+2
+Mexican
+Rural Rd
+Crunchwrap
+W
+ReviewManagerFile.dat
+X
+ReviewManagerFile.dat
+N
+L
+R
+Chick Fil A
+Dobson Rd
+A
+Canes
+Love the signature sauce!
+$
+4
+American
+University Dr
+Chicken Tenders
+R
+Gus Fried Chicken
+University Dr
+P
+L
+E
+American
+E
+Mexican
+D
+Hiro
+90th St
+E
+Japanese
+T
+L
+X
+ReviewManagerFile.dat
+L
+Q

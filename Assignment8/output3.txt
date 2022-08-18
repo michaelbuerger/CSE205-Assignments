@@ -1,0 +1,261 @@
+Welcome to Kelp! 
+Find or post reviews for your favorite (and not so favorite) restaurants.
+Choice		Action
+------		------
+A		Add a review
+D		Search for a restaurant
+E		Search for a cuisine
+L		List all reviews
+N		Sort by stars
+P		Sort by cuisine
+Q		Quit
+R		Remove a review
+U		Add personal review to a local file
+V		Retrieve personal review from a local file
+W		Save reviews to a file
+X		Upload reviews from a file
+T		(admin) reset database
+?		Display Help
+
+What action would you like to perform?
+Please enter the restaurant information:
+Enter the restaurant name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the cuisine name:
+Enter the location:
+Enter the signature dish
+Restaurant added
+
+What action would you like to perform?
+Please enter the restaurant information:
+Enter the restaurant name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the cuisine name:
+Enter the location:
+Enter the signature dish
+Restaurant added
+
+What action would you like to perform?
+Please enter the restaurant information:
+Enter the restaurant name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the cuisine name:
+Enter the location:
+Enter the signature dish
+Restaurant added
+
+What action would you like to perform?
+Please enter the restaurant information:
+Enter the restaurant name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the cuisine name:
+Enter the location:
+Enter the signature dish
+Restaurant added
+
+What action would you like to perform?
+Please enter the restaurant information:
+Enter the restaurant name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the cuisine name:
+Enter the location:
+Enter the signature dish
+Restaurant added
+
+What action would you like to perform?
+Please enter the restaurant information:
+Enter the restaurant name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the cuisine name:
+Enter the location:
+Enter the signature dish
+Restaurant added
+
+What action would you like to perform?
+
+Spinatos restaurant
+*****		$$
+Italian Cuisine
+Signature Dish:	Pizzas
+Location: Rio Salado Dr
+Review:	Amazing pizzas
+
+Five Guys restaurant
+****		$$
+American Cuisine
+Signature Dish:	Burgers
+Location: Mill Ave
+Review:	Greasy burgers, good but not amazing
+
+Chick Fil A restaurant
+***		$
+American Cuisine
+Signature Dish:	Chicken Sandwich
+Location: University Dr
+Review:	Good chicken and fries. Too polite!
+
+The Dhaba restaurant
+*****		$$
+Indian Cuisine
+Signature Dish:	Butter Chicken
+Location: Apache Blv
+Review:	Butter chicken is amazing!
+
+Hiro restaurant
+*****		$$$
+Japanese Cuisine
+Signature Dish:	Sashimi
+Location: 90th St
+Review:	Best sushi in town!
+
+Chick Fil A restaurant
+*****		$
+American Cuisine
+Signature Dish:	Chicken Sandwich
+Location: Dobson Rd
+Review:	Love the fries! Very clean
+
+
+
+What action would you like to perform?
+Please enter the restaurant name to search:
+Please enter the restaurant's location':
+Restaurant found. Here's the review:
+Love the fries! Very clean
+
+What action would you like to perform?
+Please enter the restaurant name to search:
+Please enter the restaurant's location':
+Restaurant not found. Please try again
+
+What action would you like to perform?
+sorted by rating
+
+What action would you like to perform?
+
+Chick Fil A restaurant
+***		$
+American Cuisine
+Signature Dish:	Chicken Sandwich
+Location: University Dr
+Review:	Good chicken and fries. Too polite!
+
+Five Guys restaurant
+****		$$
+American Cuisine
+Signature Dish:	Burgers
+Location: Mill Ave
+Review:	Greasy burgers, good but not amazing
+
+Chick Fil A restaurant
+*****		$
+American Cuisine
+Signature Dish:	Chicken Sandwich
+Location: Dobson Rd
+Review:	Love the fries! Very clean
+
+Hiro restaurant
+*****		$$$
+Japanese Cuisine
+Signature Dish:	Sashimi
+Location: 90th St
+Review:	Best sushi in town!
+
+Spinatos restaurant
+*****		$$
+Italian Cuisine
+Signature Dish:	Pizzas
+Location: Rio Salado Dr
+Review:	Amazing pizzas
+
+The Dhaba restaurant
+*****		$$
+Indian Cuisine
+Signature Dish:	Butter Chicken
+Location: Apache Blv
+Review:	Butter chicken is amazing!
+
+
+
+What action would you like to perform?
+sorted by cuisine
+
+What action would you like to perform?
+
+Chick Fil A restaurant
+*****		$
+American Cuisine
+Signature Dish:	Chicken Sandwich
+Location: Dobson Rd
+Review:	Love the fries! Very clean
+
+Chick Fil A restaurant
+***		$
+American Cuisine
+Signature Dish:	Chicken Sandwich
+Location: University Dr
+Review:	Good chicken and fries. Too polite!
+
+Five Guys restaurant
+****		$$
+American Cuisine
+Signature Dish:	Burgers
+Location: Mill Ave
+Review:	Greasy burgers, good but not amazing
+
+The Dhaba restaurant
+*****		$$
+Indian Cuisine
+Signature Dish:	Butter Chicken
+Location: Apache Blv
+Review:	Butter chicken is amazing!
+
+Spinatos restaurant
+*****		$$
+Italian Cuisine
+Signature Dish:	Pizzas
+Location: Rio Salado Dr
+Review:	Amazing pizzas
+
+Hiro restaurant
+*****		$$$
+Japanese Cuisine
+Signature Dish:	Sashimi
+Location: 90th St
+Review:	Best sushi in town!
+
+
+
+What action would you like to perform?
+Please enter a file name that we will write to:
+Please enter the name of the restaurant:
+Please enter a review to save locally:
+
+newReview.txt is written
+
+What action would you like to perform?
+Please enter a file name which we will read from:
+newReview.txt was read
+The contents of the file are:
+McDonalds
+Very slow drive-through, but cheap!
+
+
+
+What action would you like to perform?
+Please enter a file name which we will read from:
+noReview.txt was not found
+
+What action would you like to perform?

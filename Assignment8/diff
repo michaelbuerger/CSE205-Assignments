@@ -1,0 +1,110 @@
+Welcome to Kelp! 
+Find or post reviews for your favorite (and not so favorite) restaurants.
+Choice		Action
+------		------
+A		Add a review
+D		Search for a restaurant
+E		Search for a cuisine
+L		List all reviews
+N		Sort by stars
+P		Sort by cuisine
+Q		Quit
+R		Remove a review
+U		Add personal review to a local file
+V		Retrieve personal review from a local file
+W		Save reviews to a file
+X		Upload reviews from a file
+T		(admin) reset database
+?		Display Help
+
+What action would you like to perform?
+Please enter the restaurant information:
+Enter the restaurant name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the cuisine name:
+Enter the location:
+Enter the signature dish
+Restaurant added
+
+What action would you like to perform?
+Please enter the restaurant information:
+Enter the restaurant name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the cuisine name:
+Enter the location:
+Enter the signature dish
+Restaurant added
+
+What action would you like to perform?
+Please enter the restaurant information:
+Enter the restaurant name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the cuisine name:
+Enter the location:
+Enter the signature dish
+Restaurant added
+
+What action would you like to perform?
+Please enter the restaurant information:
+Enter the restaurant name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the cuisine name:
+Enter the location:
+Enter the signature dish
+Restaurant added
+
+What action would you like to perform?
+
+Five Guys restaurant
+****		$$
+American Cuisine
+Signature Dish:	Burgers
+Location: Mill Ave
+Review:	Greasy burgers, good but not amazing
+
+Chick Fil A restaurant
+***		$
+American Cuisine
+Signature Dish:	Chicken Sandwich
+Location: University Dr
+Review:	Good chicken and fries. Too polite!
+
+Spinatos restaurant
+*****		$$
+Italian Cuisine
+Signature Dish:	Pizzas
+Location: Rio Salado Dr
+Review:	Amazing pizzas
+
+Hiro restaurant
+*****		$$$
+Japanese Cuisine
+Signature Dish:	Sashimi
+Location: 90th St
+Review:	Best sushi in town!
+
+
+
+What action would you like to perform?
+Please enter the restaurant name to search:
+Please enter the restaurant's location':
+Restaurant not found. Please try again
+
+What action would you like to perform?
+Please enter the restaurant name to search:
+Please enter the restaurant's location':
+Restaurant not found. Please try again
+
+What action would you like to perform?
+Please enter the cuisine name to search:
+Cuisine: American was NOT found
+
+What action would you like to perform?

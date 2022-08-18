@@ -1,0 +1,374 @@
+Welcome to Kelp! 
+Find or post reviews for your favorite (and not so favorite) restaurants.
+Choice		Action
+------		------
+A		Add a review
+D		Search for a restaurant
+E		Search for a cuisine
+L		List all reviews
+N		Sort by stars
+P		Sort by cuisine
+Q		Quit
+R		Remove a review
+U		Add personal review to a local file
+V		Retrieve personal review from a local file
+W		Save reviews to a file
+X		Upload reviews from a file
+T		(admin) reset database
+?		Display Help
+
+What action would you like to perform?
+Please enter the restaurant information:
+Enter the restaurant name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the cuisine name:
+Enter the location:
+Enter the signature dish
+Restaurant added
+
+What action would you like to perform?
+Please enter the restaurant information:
+Enter the restaurant name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the cuisine name:
+Enter the location:
+Enter the signature dish
+Restaurant added
+
+What action would you like to perform?
+Please enter the restaurant information:
+Enter the restaurant name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the cuisine name:
+Enter the location:
+Enter the signature dish
+Restaurant added
+
+What action would you like to perform?
+Please enter the restaurant information:
+Enter the restaurant name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the cuisine name:
+Enter the location:
+Enter the signature dish
+Restaurant added
+
+What action would you like to perform?
+Please enter the restaurant information:
+Enter the restaurant name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the cuisine name:
+Enter the location:
+Enter the signature dish
+Restaurant added
+
+What action would you like to perform?
+Please enter the restaurant information:
+Enter the restaurant name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the cuisine name:
+Enter the location:
+Enter the signature dish
+Restaurant added
+
+What action would you like to perform?
+Please enter the restaurant information:
+Enter the restaurant name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the cuisine name:
+Enter the location:
+Enter the signature dish
+Restaurant added
+
+What action would you like to perform?
+Please enter a file name to write:
+
+What action would you like to perform?
+Please enter a file name which we will read from:
+ReviewManagerFile.dat was read
+
+What action would you like to perform?
+sorted by rating
+
+What action would you like to perform?
+
+Taco Bell restaurant
+**		$
+Mexican Cuisine
+Signature Dish:	Crunchwrap
+Location: Rural Rd
+Review:	Took forever to get my order
+
+Pollo Supremo restaurant
+****		$
+Mexican Cuisine
+Signature Dish:	Charbroiled Chicken
+Location: University Dr
+Review:	Tasty chicken, cash only
+
+Chick Fil A restaurant
+*****		$
+American Cuisine
+Signature Dish:	Chicken Sandwich
+Location: Dobson Rd
+Review:	Love the fries! Very clean
+
+Chick Fil A restaurant
+*****		$
+American Cuisine
+Signature Dish:	Chicken Sandwich
+Location: University Dr
+Review:	Good chicken and fries. Too polite!
+
+Gus Fried Chicken restaurant
+*****		$
+American Cuisine
+Signature Dish:	Fried Chicken
+Location: Main St
+Review:	Sooooo good. Very cheap too!
+
+Hiro restaurant
+*****		$$$
+Japanese Cuisine
+Signature Dish:	Sashimi
+Location: 90th St
+Review:	Best sushi in town!
+
+Jinya Ramen Bar restaurant
+*****		$$
+Japanese Cuisine
+Signature Dish:	Ramen
+Location: Arizona Ave
+Review:	Best ramen in town, but very far!
+
+
+
+What action would you like to perform?
+Please enter the restaurant name of the review to remove:
+Please enter the location to remove:
+Chick Fil A, Dobson Rd was removed
+
+What action would you like to perform?
+Please enter the restaurant information:
+Enter the restaurant name:
+Enter the review:
+Enter the price range:
+Enter the rating:
+Enter the cuisine name:
+Enter the location:
+Enter the signature dish
+Restaurant added
+
+What action would you like to perform?
+Please enter the restaurant name of the review to remove:
+Please enter the location to remove:
+Gus Fried Chicken, University Dr was NOT removed
+
+What action would you like to perform?
+sorted by cuisine
+
+What action would you like to perform?
+
+Canes restaurant
+****		$
+American Cuisine
+Signature Dish:	Chicken Tenders
+Location: University Dr
+Review:	Love the signature sauce!
+
+Chick Fil A restaurant
+*****		$
+American Cuisine
+Signature Dish:	Chicken Sandwich
+Location: University Dr
+Review:	Good chicken and fries. Too polite!
+
+Gus Fried Chicken restaurant
+*****		$
+American Cuisine
+Signature Dish:	Fried Chicken
+Location: Main St
+Review:	Sooooo good. Very cheap too!
+
+Jinya Ramen Bar restaurant
+*****		$$
+Japanese Cuisine
+Signature Dish:	Ramen
+Location: Arizona Ave
+Review:	Best ramen in town, but very far!
+
+Hiro restaurant
+*****		$$$
+Japanese Cuisine
+Signature Dish:	Sashimi
+Location: 90th St
+Review:	Best sushi in town!
+
+Pollo Supremo restaurant
+****		$
+Mexican Cuisine
+Signature Dish:	Charbroiled Chicken
+Location: University Dr
+Review:	Tasty chicken, cash only
+
+Taco Bell restaurant
+**		$
+Mexican Cuisine
+Signature Dish:	Crunchwrap
+Location: Rural Rd
+Review:	Took forever to get my order
+
+
+
+What action would you like to perform?
+Please enter the cuisine name to search:
+3 Restaurants matching American cuisine were found:
+Canes restaurant
+****		$
+American Cuisine
+Signature Dish:	Chicken Tenders
+Location: University Dr
+Review:	Love the signature sauce!
+
+Chick Fil A restaurant
+*****		$
+American Cuisine
+Signature Dish:	Chicken Sandwich
+Location: University Dr
+Review:	Good chicken and fries. Too polite!
+
+Gus Fried Chicken restaurant
+*****		$
+American Cuisine
+Signature Dish:	Fried Chicken
+Location: Main St
+Review:	Sooooo good. Very cheap too!
+
+
+
+What action would you like to perform?
+Please enter the cuisine name to search:
+2 Restaurants matching Mexican cuisine were found:
+Pollo Supremo restaurant
+****		$
+Mexican Cuisine
+Signature Dish:	Charbroiled Chicken
+Location: University Dr
+Review:	Tasty chicken, cash only
+
+Taco Bell restaurant
+**		$
+Mexican Cuisine
+Signature Dish:	Crunchwrap
+Location: Rural Rd
+Review:	Took forever to get my order
+
+
+
+What action would you like to perform?
+Please enter the restaurant name to search:
+Please enter the restaurant's location':
+Restaurant found. Here's the review:
+Best sushi in town!
+
+What action would you like to perform?
+Please enter the cuisine name to search:
+2 Restaurants matching Japanese cuisine were found:
+Jinya Ramen Bar restaurant
+*****		$$
+Japanese Cuisine
+Signature Dish:	Ramen
+Location: Arizona Ave
+Review:	Best ramen in town, but very far!
+
+Hiro restaurant
+*****		$$$
+Japanese Cuisine
+Signature Dish:	Sashimi
+Location: 90th St
+Review:	Best sushi in town!
+
+
+
+What action would you like to perform?
+Restaurant management system was reset
+
+What action would you like to perform?
+
+
+No Reviews available
+
+
+
+What action would you like to perform?
+Please enter a file name which we will read from:
+ReviewManagerFile.dat was read
+
+What action would you like to perform?
+
+Jinya Ramen Bar restaurant
+*****		$$
+Japanese Cuisine
+Signature Dish:	Ramen
+Location: Arizona Ave
+Review:	Best ramen in town, but very far!
+
+Chick Fil A restaurant
+*****		$
+American Cuisine
+Signature Dish:	Chicken Sandwich
+Location: University Dr
+Review:	Good chicken and fries. Too polite!
+
+Hiro restaurant
+*****		$$$
+Japanese Cuisine
+Signature Dish:	Sashimi
+Location: 90th St
+Review:	Best sushi in town!
+
+Chick Fil A restaurant
+*****		$
+American Cuisine
+Signature Dish:	Chicken Sandwich
+Location: Dobson Rd
+Review:	Love the fries! Very clean
+
+Gus Fried Chicken restaurant
+*****		$
+American Cuisine
+Signature Dish:	Fried Chicken
+Location: Main St
+Review:	Sooooo good. Very cheap too!
+
+Pollo Supremo restaurant
+****		$
+Mexican Cuisine
+Signature Dish:	Charbroiled Chicken
+Location: University Dr
+Review:	Tasty chicken, cash only
+
+Taco Bell restaurant
+**		$
+Mexican Cuisine
+Signature Dish:	Crunchwrap
+Location: Rural Rd
+Review:	Took forever to get my order
+
+
+
+What action would you like to perform?

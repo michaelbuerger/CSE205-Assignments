@@ -1,0 +1,52 @@
+
+What would you like to do?
+
+1: Find the largest number in an array of integers
+2: Calculate the product of all prime numbers in an array of integers
+3: Find the element with the largest sum of digits in an array of integers
+4: Remove adjacent duplicate characters in a String
+5: Quit
+
+Please enter integers:
+The largest number in the array is: 666
+
+What would you like to do?
+
+1: Find the largest number in an array of integers
+2: Calculate the product of all prime numbers in an array of integers
+3: Find the element with the largest sum of digits in an array of integers
+4: Remove adjacent duplicate characters in a String
+5: Quit
+
+Please choose a number between 1 and 5.
+
+What would you like to do?
+
+1: Find the largest number in an array of integers
+2: Calculate the product of all prime numbers in an array of integers
+3: Find the element with the largest sum of digits in an array of integers
+4: Remove adjacent duplicate characters in a String
+5: Quit
+
+Please enter integers:
+The largest number in the array is: 1337
+
+What would you like to do?
+
+1: Find the largest number in an array of integers
+2: Calculate the product of all prime numbers in an array of integers
+3: Find the element with the largest sum of digits in an array of integers
+4: Remove adjacent duplicate characters in a String
+5: Quit
+
+Please enter integers:
+The largest number in the array is: 42
+
+What would you like to do?
+
+1: Find the largest number in an array of integers
+2: Calculate the product of all prime numbers in an array of integers
+3: Find the element with the largest sum of digits in an array of integers
+4: Remove adjacent duplicate characters in a String
+5: Quit
+
